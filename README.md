@@ -1,61 +1,86 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<div align="center">
 
-# 👋 Hi, I'm Chema Rodríguez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:4F8EF7&height=200&section=header&text=Chema%20Rodríguez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Junior%20Fullstack%20Engineer%20·%20AI-Driven%20Solutions&descAlignY=58&descSize=16&descColor=a0b4d6" />
 
-💻 **Web Developer** from Spain, passionate about building modern and efficient web applications.  
-I enjoy transforming ideas into projects that combine **usability, design, and performance**.  
-Currently working on new full-stack projects and exploring the world of **Artificial Intelligence**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/61chema)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmrodriguezg00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-4F8EF7?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
----
-
-### 🧩 About Me
-- 🌱 Constantly learning and improving my development skills.  
-- 💡 Interested in full-stack web development and intelligent systems.  
-- 🔍 I enjoy solving problems through clean, structured, and scalable code.  
-- 🤝 Open to collaborating on meaningful and challenging projects.  
+</div>
 
 ---
 
-### ⚙️ Tech Stack
+## About me
 
-#### 🧠 What I Know
-**Frontend:** HTML, CSS, Bootstrap, JavaScript  
-**Backend:** Python  
-**Databases:** SQL, MySQL  
-**Tools:** Git, GitHub, VS Code  
+Fullstack Engineer focused on Artificial Intelligence, currently building prototypes and production-ready solutions at an innovation team in Barcelona.
 
-#### 🚀 Currently Learning
-**Frontend Frameworks:** React, Tailwind CSS   
-**Backend / Future Goals:** Node.js, Express, APIs  
-**Exploring:** Artificial Intelligence with Python (NumPy, Pandas, TensorFlow)
+My day-to-day involves **React**, **FastAPI**, **Azure**, and the integration of AI models and APIs into real products. I enjoy understanding *why* things work, not just making them work.
+
+- 🔭 Currently working on real-time web apps and AI-integrated systems
+- 🌱 Always building something outside of work to keep growing
+- 🌍 Open to relocation & remote opportunities
+- 💬 Ask me about React, FastAPI, or applied AI
 
 ---
 
-### 💼 Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| **Portfolio Website** *(coming soon)* | My personal portfolio to showcase projects, skills, and experience. Built with a modern front-end stack, animations, and responsive design. | React, Tailwind CSS, Framer Motion, Vite |
-| **JobFinder** *(in progress)* | A full-stack job search platform with authentication, filtering, and database integration. | React, Node.js, Express, MySQL |
-| **Mini Projects Collection** | Various front-end and SQL projects from my studies and practice folders. | HTML, CSS, JavaScript, SQL |
-| **AI Experiments** *(planned)* | Simple AI-related scripts and experiments while learning ML basics. | Python, NumPy, TensorFlow |
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4F8EF7?style=flat-square&logo=fastapi&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-![Chema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7arise&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7arise&layout=compact&theme=tokyonight)
+## Projects
+
+| Project | Description | Tech | Status |
+|--------|-------------|------|--------|
+| **Lupa** | Real-time collaborative web app with WebRTC video, live cursors and cloud infrastructure | React · FastAPI · WebRTC · PostgreSQL · Azure · Docker | 🔨 In progress |
+| **Flock** | TweetDeck-style Chrome extension with custom UI and multi-account management | Chrome Extension · JavaScript · CSS | 🔨 In progress |
+| [skiirentals-landing-page](https://github.com/7arise/skiirentals-landing-page) | Responsive ski rental landing page with hero section, services and pricing | HTML · CSS | ✅ Done |
+| [Digital-Clock](https://github.com/7arise/Digital-Clock) | Digital clock with dark/light mode and 12h/24h toggle | HTML · CSS · JavaScript | ✅ Done |
 
 ---
 
-### 📫 Connect With Me
-🌍 <a href="https://linkedin.com/in/61chema" target="_blank">LinkedIn</a>  
-💼 <a href="https://tusitio.com" target="_blank">Portfolio (coming soon)</a>  
-✉️ [Send me an email](mailto:chema.rodriguez.dev@gmail.com)
+## GitHub Stats
 
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=7arise&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=a0b4d6&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7arise&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4F8EF7&text_color=a0b4d6&langs_count=6" />
+
+</div>
 
 ---
 
-> *“Keep learning, keep building — curiosity creates great developers.”*
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:0d1117&height=100&section=footer" />
+
+*"Keep learning, keep building — curiosity creates great developers."*
+
+</div>
