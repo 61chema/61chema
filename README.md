@@ -79,6 +79,6 @@ My day-to-day involves **React**, **FastAPI**, **Azure**, and the integration of
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:0d1117&height=100&section=footer" />
 
-*"Keep learning, keep building — curiosity creates great developers."*
+*"Keep learning, keep building, curiosity creates great developers."*
 
 </div>
